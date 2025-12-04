@@ -43,6 +43,6 @@ Auto-initializes the DB factory for desktop platforms
 Updated app icon using flutter_launcher_icons
 
 Flutter Splash screen :
-![WhatsApp Image 2025-12-04 at 15 05 47_1014bfd6](https://github.com/user-attachments/assets/fb0dff4b-966e-458e-901f-1e00ec570bb5)
+
 
 
